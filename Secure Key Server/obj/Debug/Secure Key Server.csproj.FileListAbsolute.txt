@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Secure Key Server\Secure Key Server\bin\Debug\Secure Key Server.exe.config
+C:\Users\user\source\repos\Secure Key Server\Secure Key Server\bin\Debug\Secure Key Server.exe
+C:\Users\user\source\repos\Secure Key Server\Secure Key Server\bin\Debug\Secure Key Server.pdb
+C:\Users\user\source\repos\Secure Key Server\Secure Key Server\obj\Debug\Secure Key Server.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Secure Key Server\Secure Key Server\obj\Debug\Secure Key Server.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Secure Key Server\Secure Key Server\obj\Debug\Secure Key Server.exe
+C:\Users\user\source\repos\Secure Key Server\Secure Key Server\obj\Debug\Secure Key Server.pdb
